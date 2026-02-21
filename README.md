@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Rank Master** 🎓
 
 **Rank Master** is a high-performance, single-executable web server built in **C++** that ranks students using a **Max-Heap** data structure. It features a modern, responsive web interface served directly from the backend logic, eliminating the need for separate external HTML or CSS files.
@@ -53,3 +54,6 @@ $$FinalScore = (GPA \times 0.7) + (Marks \times 0.2) + (Attendance \times 0.1)$$
 To compile via command line (MinGW), use the `-lws2_32` flag to link the Windows Socket library:
 ```bash
 g++ main.cpp -o RankMaster.exe -lws2_32
+=======
+# Rank-Master
+>>>>>>> a9319d9 (Initial commit)
